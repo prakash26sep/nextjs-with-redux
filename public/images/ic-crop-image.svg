@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="60" height="60" viewBox="0 0 60 60">
+    <defs>
+        <style>
+            .cls-2{fill:#4a4a4a;stroke:#4a4a4a;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="ic_crop_image" transform="translate(-317 -208)">
+        <circle id="Ellipse_16" cx="30" cy="30" r="30" fill="#fff" transform="translate(317 208)"/>
+        <g id="crop" transform="translate(330.402 221.4)">
+            <g id="Group_176" transform="translate(8.332)">
+                <g id="Group_175">
+                    <path id="Path_150" d="M135.34 23.838h-23.086V.753a.753.753 0 0 0-1.505 0v23.461a1.12 1.12 0 0 0 1.114 1.129h23.469a.753.753 0 0 0 .008-1.505z" class="cls-2" transform="translate(-110.749)"/>
+                </g>
+            </g>
+            <g id="Group_178" transform="translate(23.838 28.166)">
+                <g id="Group_177">
+                    <path id="Path_151" d="M317.5 374.2a.755.755 0 0 0-.753.753v4a.753.753 0 1 0 1.505 0v-4a.755.755 0 0 0-.752-.753z" class="cls-2" transform="translate(-316.75 -374.2)"/>
+                </g>
+            </g>
+            <g id="Group_180" transform="translate(11.885 8.332)">
+                <g id="Group_179">
+                    <path id="Path_152" d="M170.294 110.7H158.7a.753.753 0 1 0 0 1.505h11.2v11.351a.753.753 0 1 0 1.505 0v-11.727a1.12 1.12 0 0 0-1.111-1.129z" class="cls-2" transform="translate(-157.95 -110.7)"/>
+                </g>
+            </g>
+            <g id="Group_182" transform="translate(0 8.332)">
+                <g id="Group_181">
+                    <path id="Path_153" d="M5.2 110.7H.8a.753.753 0 0 0 0 1.505h4.4a.753.753 0 0 0 0-1.505z" class="cls-2" transform="translate(-.05 -110.7)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

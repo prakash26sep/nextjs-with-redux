@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.503" height="15.143" viewBox="0 0 16.503 15.143">
+    <defs>
+        <style>
+            .cls-1{fill:#66180d;stroke:#66180d;stroke-width:.5px}
+        </style>
+    </defs>
+    <g id="my_cart" transform="translate(.25 -21.455)">
+        <g id="Group_135" transform="translate(10.673 32.358)">
+            <g id="Group_134">
+                <path id="Path_101" d="M343.542 362.612a2 2 0 1 0 2 2 2 2 0 0 0-2-2zm0 2.793a.8.8 0 1 1 .8-.8.8.8 0 0 1-.8.8z" class="cls-1" transform="translate(-341.547 -362.612)"/>
+            </g>
+        </g>
+        <g id="Group_137" transform="translate(0 21.705)">
+            <g id="Group_136">
+                <path id="Path_102" d="M15.873 24.648a.6.6 0 0 0-.471-.23H3.694l-.539-2.254a.6.6 0 0 0-.582-.459H.6a.6.6 0 1 0 0 1.2h1.5l1.945 8.139a.6.6 0 0 0 .582.459h9.317a.6.6 0 0 0 .581-.454l1.456-5.885a.6.6 0 0 0-.108-.516zm-2.4 5.655H5.1l-1.12-4.688h10.657z" class="cls-1" transform="translate(0 -21.705)"/>
+            </g>
+        </g>
+        <g id="Group_139" transform="translate(3.431 32.358)">
+            <g id="Group_138">
+                <path id="Path_103" d="M111.8 362.612a2 2 0 1 0 2 2 2 2 0 0 0-2-2zm0 2.793a.8.8 0 1 1 .8-.8.8.8 0 0 1-.8.8z" class="cls-1" transform="translate(-109.806 -362.612)"/>
+            </g>
+        </g>
+    </g>
+</svg>

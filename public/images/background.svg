@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.2" height="12.933" viewBox="0 0 16.2 12.933">
+    <defs>
+        <style>
+            .cls-1{fill:#4a4a4a;stroke:#4a4a4a;stroke-width:.2px}
+        </style>
+    </defs>
+    <g id="background" transform="translate(2.6 -50.18)">
+        <g id="Group_92" transform="translate(-2.5 50.28)">
+            <g id="Group_91">
+                <g id="Group_90">
+                    <path id="Path_84" d="M-2.5 50.28v12.733h16V50.28zm.645.645h14.71v6.6l-2.98-1.937-2.315 2.148-3.209-1.961-6.206 4.035zm9.987 7.16L9.946 56.4l2.91 1.891v2.681zm4.724 4.283H-1.855v-1.79l6.217-4.041 3.077 1.88 5.416 3.31z" class="cls-1" transform="translate(2.5 -50.28)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_95" transform="translate(5.014 51.587)">
+            <g id="Group_94">
+                <g id="Group_93">
+                    <path id="Path_85" d="M242.338 92.51a2.038 2.038 0 1 0 2.038 2.038 2.04 2.04 0 0 0-2.038-2.038zm0 3.431a1.393 1.393 0 1 1 1.393-1.393 1.394 1.394 0 0 1-1.393 1.393z" class="cls-1" transform="translate(-240.3 -92.51)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_98" transform="translate(-.867 52.077)">
+            <g id="Group_97">
+                <g id="Group_96">
+                    <path id="Path_86" d="M53.543 109a1.1 1.1 0 0 0-.262.032 1.139 1.139 0 0 0-2.084-.01 1.139 1.139 0 0 0 .223 2.256h2.124a1.139 1.139 0 1 0 0-2.278zm0 1.633h-2.124a.494.494 0 0 1-.059-.985l.309.154.083-.414a.494.494 0 0 1 .979.1v.642l.514-.379a.493.493 0 1 1 .3.885z" class="cls-1" transform="translate(-50.28 -108.35)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_101" transform="translate(4.123 57.311)">
+            <g id="Group_100">
+                <g id="Group_99">
+                    <path id="Path_87" d="M217.023 280.645l-.337.55-.066-.041-5.13-3.144.337-.55.066.041z" class="cls-1" transform="translate(-211.49 -277.46)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_104" transform="translate(9.181 57.476)">
+            <g id="Group_103">
+                <g id="Group_102">
+                    <path id="Path_88" d="M378.2 284.681l-.35.541-2.907-1.881.35-.542z" class="cls-1" transform="translate(-374.94 -282.8)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_107" transform="translate(10.323 51.75)">
+            <g id="Group_106">
+                <g id="Group_105">
+                    <path id="Rectangle_22" d="M0 0H1.298V0.645H0z" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_110" transform="translate(11.14 52.894)">
+            <g id="Group_109">
+                <g id="Group_108">
+                    <path id="Rectangle_23" d="M0 0H1.298V0.645H0z" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_113" transform="translate(-1.275 51.587)">
+            <g id="Group_112">
+                <g id="Group_111">
+                    <path id="Rectangle_24" d="M0 0H1.298V0.645H0z" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_116" transform="translate(3.626 51.914)">
+            <g id="Group_115">
+                <g id="Group_114">
+                    <path id="Rectangle_25" d="M0 0H1.298V0.645H0z" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_119" transform="translate(-1.275 57.141)">
+            <g id="Group_118">
+                <g id="Group_117">
+                    <path id="Rectangle_26" d="M0 0H1.298V0.645H0z" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_122" transform="translate(.359 55.834)">
+            <g id="Group_121">
+                <g id="Group_120">
+                    <path id="Rectangle_27" d="M0 0H1.298V0.645H0z" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_125" transform="translate(9.506 53.874)">
+            <g id="Group_124">
+                <g id="Group_123">
+                    <path id="Rectangle_28" d="M0 0H1.298V0.645H0z" class="cls-1"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

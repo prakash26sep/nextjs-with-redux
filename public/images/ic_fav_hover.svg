@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <defs>
+        <style>
+            .cls-2{fill:none}
+        </style>
+    </defs>
+    <g id="ic_fav_hover" transform="translate(-482 -239.2)">
+        <g id="Ellipse_10" fill="#fff" stroke="#ffecea" transform="translate(482 239.2)">
+            <circle cx="20" cy="20" r="20" stroke="none"/>
+            <circle cx="20" cy="20" r="19.5" class="cls-2"/>
+        </g>
+        <g id="Group_141" transform="translate(492 250)">
+            <path id="Path_110" d="M0 0h20v20H0z" class="cls-2"/>
+            <path id="Path_111" fill="#f0483c" d="M10.334 4.274a5 5 0 0 1 7.066 7.054L10.332 18.4l-7.065-7.072a5 5 0 0 1 7.067-7.053z" transform="translate(-.333 -.5)"/>
+        </g>
+    </g>
+</svg>

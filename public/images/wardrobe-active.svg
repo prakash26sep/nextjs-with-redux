@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}
+        </style>
+    </defs>
+    <g id="wardrobe_active" transform="translate(-4 -4)">
+        <path id="Path_138" d="M4 54.286h7.714V52H4zm2.571-1.429h2v.571h-2z" class="cls-1" transform="translate(0 -34.286)"/>
+        <path id="Path_139" d="M22.286 22a.286.286 0 0 0-.286.286V24a.286.286 0 0 0 .571 0v-1.714a.286.286 0 0 0-.285-.286z" class="cls-1" transform="translate(-12.857 -12.857)"/>
+        <path id="Path_140" d="M4 4v13.143h6.857V4zm6.286 7.143a.857.857 0 0 1-1.714 0V9.429a.857.857 0 1 1 1.714 0z" class="cls-1"/>
+        <path id="Path_141" d="M33 54.286h7.714V52H33zm3.143-1.429h2v.571h-2z" class="cls-1" transform="translate(-20.714 -34.286)"/>
+        <path id="Path_142" d="M46.286 45.143a.286.286 0 1 0 0 .571h2.571a.286.286 0 1 0 0-.571.286.286 0 0 1 0-.571.286.286 0 1 0 0-.571h-2.571a.286.286 0 0 0 0 .571h.857v.571z" class="cls-1" transform="translate(-30 -28.571)"/>
+        <path id="Path_143" d="M38.571 4H38v1.143a.286.286 0 0 1-.286.286h-6.857V6h3.429a.283.283 0 0 1 .246.14L36.246 9a.286.286 0 0 1-.246.429h-2a.28.28 0 0 1-.214-.1l-.071-.08V14a.286.286 0 0 1-.286.286H30v2.857h4.051a.857.857 0 0 1-.051-.286.847.847 0 0 1 .22-.571.847.847 0 0 1-.22-.571.86.86 0 0 1 .857-.857h2.571a.86.86 0 0 1 .857.857.847.847 0 0 1-.22.571.847.847 0 0 1 .22.571.857.857 0 0 1-.051.286h.337z" class="cls-1" transform="translate(-18.571)"/>
+        <path id="Path_144" d="M30.92 17H30v.229a.808.808 0 0 0 .286.057.853.853 0 0 0 .634-.286z" class="cls-1" transform="translate(-18.571 -9.286)"/>
+        <path id="Path_145" d="M30 13h1.143v.571H30z" class="cls-1" transform="translate(-18.571 -6.429)"/>
+        <path id="Path_146" d="M30 9h.286v.571H30z" class="cls-1" transform="translate(-18.571 -3.571)"/>
+        <path id="Path_147" d="M30 20.143h3.143v-5.226a.284.284 0 0 1 .186-.266.279.279 0 0 1 .314.08l.486.554h1.366L34.123 13h-2.409v.571A1.429 1.429 0 0 1 30.286 15a1.59 1.59 0 0 1-.286-.031z" class="cls-1" transform="translate(-18.571 -6.429)"/>
+        <path id="Path_148" d="M37.429 4.857V4H30v.857h.286v-.286h.571v.286z" class="cls-1" transform="translate(-18.571)"/>
+    </g>
+</svg>

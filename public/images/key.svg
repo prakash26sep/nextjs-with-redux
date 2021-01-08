@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="18.604" viewBox="0 0 20 18.604">
+    <defs>
+        <style>
+            .cls-1{fill:#bababa}
+        </style>
+    </defs>
+    <g id="key" transform="translate(0 -17.874)">
+        <g id="Group_74" transform="translate(0 26.821)">
+            <g id="Group_73">
+                <path id="Path_62" d="M4.828 246.919a4.828 4.828 0 1 0 4.828 4.828 4.834 4.834 0 0 0-4.828-4.828zm0 8.284a3.455 3.455 0 1 1 3.455-3.455 3.459 3.459 0 0 1-3.455 3.452z" class="cls-1" transform="translate(0 -246.919)"/>
+            </g>
+        </g>
+        <g id="Group_76" transform="translate(7.071 17.874)">
+            <g id="Group_75">
+                <path id="Path_63" d="M192.347 18.075a.686.686 0 0 0-.971 0l-10.16 10.16a.686.686 0 0 0 .971.971l10.16-10.16a.686.686 0 0 0 0-.971z" class="cls-1" transform="translate(-181.015 -17.874)"/>
+            </g>
+        </g>
+        <g id="Group_78" transform="translate(12.56 19.424)">
+            <g id="Group_77">
+                <path id="Path_64" d="M328.78 60.342l-2.769-2.769-.971.971 2.282 2.282-2.529 2.513-2.285-2.266-.967.975 2.769 2.746a.686.686 0 0 0 .967 0l3.5-3.478a.686.686 0 0 0 0-.973z" class="cls-1" transform="translate(-321.541 -57.573)"/>
+            </g>
+        </g>
+    </g>
+</svg>

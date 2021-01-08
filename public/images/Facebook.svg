@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="57" height="57" viewBox="0 0 57 57">
+    <defs>
+        <filter id="ueeukvdb3a" width="57" height="57" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="2"/>
+            <feGaussianBlur result="blur" stdDeviation="2"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g>
+        <g filter="url(#ueeukvdb3a)" transform="translate(-201 -332) translate(201 332)">
+            <path fill="#3b5998" d="M0 0H45V45H0z" transform="translate(6 4)"/>
+        </g>
+        <path fill="#fff" d="M20.413 0H1.587A1.587 1.587 0 0 0 0 1.587v18.826A1.587 1.587 0 0 0 1.587 22h10.165v-8.508H8.895v-3.33h2.857V7.711c0-2.842 1.735-4.389 4.27-4.389a23.5 23.5 0 0 1 2.562.131v2.97h-1.748c-1.379 0-1.646.655-1.646 1.617v2.121h3.3l-.43 3.33h-2.871V22h5.224A1.587 1.587 0 0 0 22 20.413V1.587A1.587 1.587 0 0 0 20.413 0zm0 0" transform="translate(-201 -332) translate(219 348)"/>
+    </g>
+</svg>
